@@ -142,4 +142,6 @@ Refrain
 
 ## Fehiny...
 
+Fanahy iniana manokana ho sarotra izay tsy izy no namoronan'ny Mpamorona azy ny **Malbolge** hany ka 2 taona ngarangidina  vao nisy praograma naely ho fantatry ny vahoaka.
+
 Torohay ao amin'ny [Wikipedia](https://en.wikipedia.org/wiki/Malbolge).
