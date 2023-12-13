@@ -99,10 +99,7 @@ poh.lkjcha'edcbaZ_^]\[ZYXQuONrLQPONMLKJIBfFEDCB;@?8\}5:3Wx6/432+ON.-,+
 *)('&%$#"!~}|{zyxwYutsrqponmlkjc)gfedFba`_^]\UyYXWVOTSRKoOHMLKJIBfFEDC
 B$@?>=<;:92V6543210/.-,l*)('&%${A!~}|{z\xwvutsrqj0nPfkjihgf_%p
 ```
-
----
-
-Vokatra...
+## Vokatra...
 
 ```text
 RY TANINDRAZANAY MALALA �!
