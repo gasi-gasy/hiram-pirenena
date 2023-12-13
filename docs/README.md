@@ -144,6 +144,6 @@ Refrain
 
 Fanahy iniana manokana natao ho sarotra izay tsy izy i **Malbolge** raha ny namoronana azy hany ka 2 taona ngarangidina  vao nisy praograma naely miseho masoandro mba ho fantatry ny besinimaro teo ampiandohana.
 
-Tsy fampiasa firy Malbolge satria somary _kivalavala_ saingy mahaliana ireo tia mikaroka izy noho ny fahasarotan'ny fampiasana azy.
+Tena tsy fampiasa firy Malbolge satria somary _kivalavala_ saingy mahaliana ireo tia mikaroka izy noho ny fahasarotan'ny fampiasana azy.
 
 Torohay ao amin'ny [Wikipedia](https://en.wikipedia.org/wiki/Malbolge).
