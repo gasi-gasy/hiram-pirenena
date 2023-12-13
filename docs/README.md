@@ -96,3 +96,41 @@ poh.lkjcha'edcbaZ_^]\[ZYXQuONrLQPONMLKJIBfFEDCB;@?8\}5:3Wx6/432+ON.-,+
 *)('&%$#"!~}|{zyxwYutsrqponmlkjc)gfedFba`_^]\UyYXWVOTSRKoOHMLKJIBfFEDC
 B$@?>=<;:92V6543210/.-,l*)('&%${A!~}|{z\xwvutsrqj0nPfkjihgf_%p
 ```
+
+Vokatra...
+
+```text
+RY TANINDRAZANAY MALALA �!
+
+I:
+
+Ry Tanindrazanay malala !
+Ry Madagasikara soa.
+Ny Fitiavanay anao tsy miala,
+Fa ho anao, ho anao doria tokoa.
+
+Refrain:
+
+Tahionao ry Zanahary
+'Ty Nosindrazanay ity
+Hiadana sy ho finaritra
+He! Sambatra tokoa izahay.
+
+II:
+
+Ry Tanindrazanay malala !
+Irinay mba hanompoan'anao
+Ny tena sy fo fanahy anananay,
+'Zay sarobidy sy mendrika tokoa.
+
+Refrain
+
+III:
+
+Ry Tanindrazanay malala !
+Irinay mba hitahian'anao,
+Ka Ilay Nahary 'zao tontolo izao
+No fototra ijoroan'ny satanao.
+
+Refrain
+```
