@@ -2,7 +2,7 @@
 
 ## "Ry Tanindrazanay Malala ô"
 
-... nosoroanata manokana tamin'ny [Malbolge](https://esolangs.org/wiki/Malbolge)
+... nosoroanata manokana tamin'ny [Malbolge](https://esolangs.org/wiki/Malbolge).
 
 Miala any ary ny `Code` ry namana...
 
