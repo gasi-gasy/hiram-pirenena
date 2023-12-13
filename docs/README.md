@@ -1,5 +1,8 @@
 # Madagascar National Anthem
-"Ry Tanindrazanay Malala ô" - nosoroanata manokana avy amin'ny [Malbolge](https://esolangs.org/wiki/Malbolge)
+
+## "Ry Tanindrazanay Malala ô"
+
+... nosoroanata manokana avy amin'ny [Malbolge](https://esolangs.org/wiki/Malbolge)
 
 Miala any ny `Code`...
 
