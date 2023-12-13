@@ -4,7 +4,7 @@
 
 ... nosoroanata manokana tamin'ny [Malbolge](https://esolangs.org/wiki/Malbolge)
 
-Miala any ny `Code`...
+Miala any ary ny `Code` ry namana...
 
 ```malbolge
 bCBA@?>=<;:9876543210/.-,+*)('&%$#"!~}|{zyxwvutsrqponmlkjihgfedcba`_^]
