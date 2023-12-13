@@ -142,6 +142,6 @@ Refrain
 
 ## Fehiny...
 
-Fanahy iniana manokana natao ho sarotra izay tsy izy i **Malbolge** raha ny namoronana azy hany ka 2 taona ngarangidina  vao nisy praograma naely naseho masoandro mba ho fantatry ny besinimaro.
+Fanahy iniana manokana natao ho sarotra izay tsy izy i **Malbolge** raha ny namoronana azy hany ka 2 taona ngarangidina  vao nisy praograma naely miseho masoandro mba ho fantatry ny besinimaro.
 
 Torohay ao amin'ny [Wikipedia](https://en.wikipedia.org/wiki/Malbolge).
