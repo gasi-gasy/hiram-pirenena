@@ -2,7 +2,7 @@
 
   - Mpanoratra 	Tonony: Rahajason
   - Feony: Norbert Raharisoa
-  - 1958
+  - Taona: 1958
 
 ## "Ry Tanindrazanay Malala ô"
 
