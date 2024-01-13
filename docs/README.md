@@ -1,5 +1,9 @@
 # Madagascar National Anthem
 
+  - Mpanoratra 	Tonony: Rahajason
+  - Feony: Norbert Raharisoa
+  - 1958
+
 ## "Ry Tanindrazanay Malala ô"
 
 ... nosoroanata manokana tamin'ny [Malbolge](https://esolangs.org/wiki/Malbolge).
